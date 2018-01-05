@@ -15,11 +15,12 @@ Image editor based on GAN models
 
  * [Gatys et al, 2015. A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576)
 
-## Other interesting projects
+## Links
 
  * https://github.com/junyanz/CycleGAN
  * https://github.com/phillipi/pix2pix
  * https://github.com/junyanz/CatPapers
+ * [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)
  
  
 ## About

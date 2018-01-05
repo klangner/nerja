@@ -8,4 +8,4 @@ Image editor based on GAN models
 ## Other interesting projects
 
 
-This project is named after [Nerja Caves](https://en.wikipedia.org/wiki/Caves_of_Nerja), where one of the first pinting made by humans were discovered.
+This project is named after [Nerja Caves](https://en.wikipedia.org/wiki/Caves_of_Nerja), where one of the first paintings made by humans were discovered.

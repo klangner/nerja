@@ -6,11 +6,14 @@ Image editor based on GAN models
  * [ ] Improve image resolution
  * [ ] Generate objects from regions (fruits based on color map)
  * [ ] Transform cat pose (based on cat and new pose sketch)
+ * [ ] Draw image in given style (Neural Style Transfer)
  
  
 ## Datasets
 
 ## Publications
+
+ * [Gatys et al, 2015. A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576)
 
 ## Other interesting projects
 

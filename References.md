@@ -7,6 +7,7 @@
 
 ## Projects
 
+ * https://github.com/affinelayer/pix2pix-tensorflow
  * https://github.com/junyanz/CycleGAN
  * https://github.com/phillipi/pix2pix
  * https://github.com/junyanz/CatPapers
@@ -36,5 +37,6 @@
 ## Publications
 
  * [Gatys et al, 2015. A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576)
+ * [Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/abs/1611.07004)
 
 

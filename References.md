@@ -22,10 +22,11 @@
 ## Articles
 
  * [GAN Tutorial](https://arxiv.org/abs/1701.00160)
- * http://www.wildml.com/2017/12/ai-and-deep-learning-in-2017-a-year-in-review/
- * https://medium.mybridge.co/30-amazing-machine-learning-projects-for-the-past-year-v-2018-b853b8621ac7
- * https://magenta.tensorflow.org/sketch-rnn-demo
+ * [Draw Together with a Neural Network](https://magenta.tensorflow.org/sketch-rnn-demo)
  * [GAN Hacks](https://github.com/soumith/ganhacks)
+ * [Background removal with deep learning](https://towardsdatascience.com/background-removal-with-deep-learning-c4f2104b3157)
+ * [Deep Image Prior](https://dmitryulyanov.github.io/deep_image_prior)
+ * [Code from Mockups](https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/)
 
 
 ## Datasets
